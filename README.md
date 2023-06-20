@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [click here]()
+- Solution URL: [click here](https://www.frontendmentor.io/solutions/interactive-rating-component-LKKQahnE-G)
 - Live Site URL: [click here](https://main--illustrious-pavlova-6a952f.netlify.app/)
 
 ## My process
